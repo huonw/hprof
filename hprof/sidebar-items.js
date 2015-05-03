@@ -1,0 +1,1 @@
+initSidebarItems({"struct":[["ProfileGuard","A \"guard\" for calling `Profiler::leave` when it is destroyed."],["ProfileNode","A single node in the profile tree."],["Profiler","A single tree of profile data."]]});
